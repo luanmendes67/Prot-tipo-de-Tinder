@@ -7,7 +7,10 @@ Este é um dos meus projeto que realizei quando fazia a faculdade de ADS que foi
 
 ### 📱 Demonstração do Projeto
 
-https://github.com/user-attachments/assets/Gravação_de_Tela_2026-08-07_201948.mp4
+
+https://github.com/user-attachments/assets/1e456081-afab-4c1b-a4c4-6363f7d608f1
+
+
 
 > 💡 **Protótipo Interativo:** Você pode testar e interagir com todas as telas diretamente pelo Figma através do botão abaixo ou clicando no badge acima.
 > 
