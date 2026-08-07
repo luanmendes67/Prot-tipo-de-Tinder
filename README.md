@@ -1,5 +1,7 @@
-# Prot-tipo-de-Tinder
-Este é um dos meus projeto que realizei quando fazia a faculdade de ADS que foi um projeto no Figma que realizei utilizando como base o aplicativo de relacionamento Tinder, obviamente faltou polimento mas fiquei satisfeito com o resultado.
+# Prototipo-de-Tinder
+Este é um dos meus projeto que realizei quando fazia a faculdade de ADS que foi um projeto no Figma, onde foi colocado a proposta de escolher e replicar um aplicativo e fazer com que seja possível interagir com ele, realizei utilizando como base o aplicativo de relacionamento Tinder, buscando deixar o mais otimizado e agradável. 
+
+Pretendo aperfeiçoar com o tempo e lançar outros aqui.
 
 # Protótipo de Tinder
 
